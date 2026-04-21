@@ -1,7 +1,7 @@
 ## WELCOME TO MY PAGE 👋👋👋
 My name is Duy Nguyen. I am a Master Mechatronic and Robotic Student at Lebiniz University Hannover. I am interested in the following topics: Image Processing, Computer Vision and Robotics.  
 
-⚡Favourite quote: "Is you don't rule your mind. Your mind will wule you." - Eliud Kipchoge
+⚡Favourite quote: "If you don't rule your mind. Your mind will rule you." - Eliud Kipchoge
 
 <!--
 **nad11ng/nad11ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

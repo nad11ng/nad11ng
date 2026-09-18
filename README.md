@@ -1,5 +1,5 @@
 ## WELCOME TO MY PAGE 👋👋👋
-My name is Duy Nguyen. I am a Master Mechatronic and Robotic Student at Lebiniz University Hannover. I am interested in the following topics: Data Science, Machine Learning and Computer Vision.  
+Master Mechatronic and Robotic Student at Lebiniz University Hannover. I am interested in the following topics: Robotics, Computer Vision and Artificial Intelligence.  
 
 <!--
 **nad11ng/nad11ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

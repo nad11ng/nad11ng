@@ -7,7 +7,7 @@ Master Mechatronics and Robotics Student at Leibniz University Hannover. I’m c
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/trantrieuvy](https://www.linkedin.com/in/nganhduy/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anhduynguyen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nganhduy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anhduynguyen" height="30" width="40" /></a>
 </p>
 
 <!--

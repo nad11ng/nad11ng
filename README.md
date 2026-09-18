@@ -1,5 +1,14 @@
 ## WELCOME TO MY PAGE 👋👋👋
-Master Mechatronic and Robotic Student at Lebiniz University Hannover. I am interested in the following topics: Robotics, Computer Vision and Artificial Intelligence.  
+<h1 align="center">Hi, I'm Anh Duy Nguyen</h1>
+
+Master Mechatronics and Robotics Student at Leibniz University Hannover. I’m currently focusing on **Robotics**, **Computer Vision**, **AI Engineering**
+
+- How to reach me **nad.anh.nguyen@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="[https://linkedin.com/in/trantrieuvy](https://www.linkedin.com/in/nganhduy/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anhduynguyen" height="30" width="40" /></a>
+</p>
 
 <!--
 **nad11ng/nad11ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
